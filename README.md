@@ -1,7 +1,8 @@
 # Hangul-Trainer
-**Liam Jay** | Saint Mary's University | Halifax, Nova Scotia
-A small program to teach the Korean alphabet.
-* This program does _**not**_ cover Batchim rules, so readings may be subject to change on an exception basis.
+**A small program to teach the Korean alphabet.**
+
+*This program does _**not**_ cover Batchim rules, so readings may be subject to change on an exception basis.
+
 
 Project Summary:
   - After running user is prompted to select between English and Japanese.
