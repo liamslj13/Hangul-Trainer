@@ -1,15 +1,25 @@
 # Hangul-Trainer
 **A small program to teach the Korean alphabet.**
-
 *This program does _**not**_ cover Batchim rules, so readings may be subject to change on an exception basis.
 
+# Installation / Use
+After installing all 5 script files, namely:
+ 
+  - OptionsBranchFunctions.py
+  - OptionsBranchFunctionsJP.py
+  - hangulcharacters.py
+  - hangultrainer.py (main script)
 
-Project Summary:
-  - After running user is prompted to select between English and Japanese.
-  - The user is then prompted to select a learning menu, credits, or return. Returning out of the language selection menu will stop the program.
-  - Upon selecting the learning menu, the user has 5 options. Each option will produce a specific type of character (vowel, consonant, etc) at random.
-  - User is prompted to guess and is awarded 1 point if correct, 0 if incorrect. "stop" can be entered at anytime to stop the learning loop.
-  - Final score will be displayed when "stop" is entered.
+and move them into a single directory.
+You can then open your terminal (either directly from the folder on mac), and input the following:
+  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> cd (directory name)
+  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To access the directory from the terminal,
+  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> python3 hangultrainer.py (if python version 3+)
+
+# Other General Information
 
 This is my first practical project that I have made, so the code might be rather disorganized and a bit messy. Some parts are repeated or redundant I am sure.
 If there are any bugs or fixes you would like to make, please do so and let me know. I am open to learning.
