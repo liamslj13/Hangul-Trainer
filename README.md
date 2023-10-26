@@ -2,24 +2,25 @@
 **A small program to teach the Korean alphabet.** <br p>
 *This program does _**not**_ cover Batchim rules, so readings may be subject to change on an exception basis.
 
-# Installation / Use
-After installing all 5 script files, namely:
+## Installation / Use
+After installing the 5 script files, namely:
  
+  - hangultrainer.py (main script)
   - OptionsBranchFunctions.py
   - OptionsBranchFunctionsJP.py
   - hangulcharacters.py
-  - hangultrainer.py (main script)
+  - menusandtextblocks.py
 
 and move them into a single directory.
-You can then open your terminal (either directly from the folder on mac), and input the following:
-  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> cd (directory name)
-  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To access the directory from the terminal,
-  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> python3 hangultrainer.py (if python version 3+)
+You can then open your terminal (either directly from the folder on mac), and input the following: <br />
+ ```cd (directory name)``` -> ```python3 hangultrainer.py``` (if python version 3+). 
+ This will allow you to access the directory from the terminal which allows the program to run.
 
-# Other General Information
+ Furthermore, you can check your Python version by inputting either <br />
+ ```python --version``` or  ```python3 --version``` 
+ into the terminal. 
+
+## Other General Information
 
 This is my first practical project that I have made, so the code might be rather disorganized and a bit messy. Some parts are repeated or redundant I am sure.
 If there are any bugs or fixes you would like to make, please do so and let me know. I am open to learning.
