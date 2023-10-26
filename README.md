@@ -1,5 +1,5 @@
 # Hangul-Trainer
-**A small program to teach the Korean alphabet.**
+**A small program to teach the Korean alphabet.** <br p>
 *This program does _**not**_ cover Batchim rules, so readings may be subject to change on an exception basis.
 
 # Installation / Use
