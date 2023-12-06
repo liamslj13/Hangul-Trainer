@@ -111,7 +111,6 @@ def hangul_combined_vowels_jp() -> None:
 
 
 def hangul_consonants_jp() -> None:
-    # Get jp bool to detect language
     # Used to calculate at final score at the end
     score = 0
     iterations = 0
